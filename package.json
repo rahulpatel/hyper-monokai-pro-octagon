@@ -1,0 +1,22 @@
+{
+  "name": "hyper-monokai-pro-octagon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Monokai Pro (filter Octagon) for Hyper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahulpatel/hyper-monokai-pro-octagon.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "hyper.app",
+    "hyper monokai pro",
+    "hyper theme",
+    "monokai-pro-theme",
+    "monokai pro",
+    "monokai pro octagon"
+  ],
+  "author": "Rahul Patel <rahulpatel@users.noreply.github.com>",
+  "license": "MIT"
+}
